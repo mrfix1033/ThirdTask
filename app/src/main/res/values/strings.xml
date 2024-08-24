@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThirdTask</string>
+    <string name="headingText">Всё наоборот</string>
+    <string name="buttonText">Преобразовать</string>
+    <string name="resultText">Результат</string>
+    <string name="inputFieldHint">Введите текст</string>
+    <string name="countSymbols">Количество символов: %1$d</string>
+</resources>
